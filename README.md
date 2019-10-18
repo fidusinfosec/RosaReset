@@ -3,5 +3,5 @@ A simple Go PoC to complete a full remote account takeover of the erosary Click 
 
 ## Build
 
-'''go build main.go'''
+```go build main.go```
 
